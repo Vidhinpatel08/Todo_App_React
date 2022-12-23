@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Todo list application built using React component structures. Completed and selected items can be deleted in bulk with the delete button.
 
 ## Available Scripts
 
